@@ -1,8 +1,8 @@
 <h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=2000&pause=300&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Ayush+Andure;I+hope+you're+doing;Well!+%3A)" alt="Typing SVG" /></a></h3>
  
 <p align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif', monospace;font-size:28px">
-  <samp>
-    Hey, My name is <b>Ayush Andure</b> and I am a passionate <b>DevOps | Cloud & Automation Explorer</b> exploring the world of cloud computing, automation, and infrastructure as code, currently sharpening my skills in tools like Kubernetes, Docker, and Terraform while having good experience into CI/CD pipelines and cloud platforms. 
+  <samp style="font-size: 23px">
+    Hey, My name is <b style="font-size: 23px";>Ayush Andure</b> and I am a passionate <b>DevOps | Cloud & Automation Explorer</b> exploring the world of cloud computing, automation, and infrastructure as code, currently sharpening my skills in tools like Kubernetes, Docker, and Terraform while having good experience into CI/CD pipelines and cloud platforms. 
   </samp>
   <br/>
 </p>
